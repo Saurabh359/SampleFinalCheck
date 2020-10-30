@@ -113,3 +113,5 @@ C:\Users\user\source\repos\SampleFinalCheck\SampleFinalCheck\bin\Debug\netcoreap
 C:\Users\user\source\repos\SampleFinalCheck\SampleFinalCheck\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\user\source\repos\SampleFinalCheck\SampleFinalCheck\obj\Debug\netcoreapp3.1\SampleFinalCheck.csproj.CoreCompileInputs.cache
 C:\Users\user\source\repos\SampleFinalCheck\SampleFinalCheck\obj\Debug\netcoreapp3.1\SampleFinalCheck.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\source\repos\SampleFinalCheck\SampleFinalCheck\bin\Debug\netcoreapp3.1\SampleFinalCheck.yaml
+C:\Users\user\source\repos\SampleFinalCheck\SampleFinalCheck\obj\Debug\netcoreapp3.1\SampleFinalCheck.csprojAssemblyReference.cache
